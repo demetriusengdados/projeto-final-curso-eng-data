@@ -1,4 +1,4 @@
-# projeto-dynamics365
+# projeto-final-curso
 Projeto de uso da API do Dynamics 365
 
 # Dynamics 365 Data Sync Script
